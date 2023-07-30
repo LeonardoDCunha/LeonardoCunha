@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Cunha ✌️
 
-- 📷 Hoje trabalho com Front-End
+- 📷 Desenvolvedor Mobile/Front-End
 - 👨‍🎓 Graduado em Ciência Da Computação
 - 👨‍💻 Estudando React
 
