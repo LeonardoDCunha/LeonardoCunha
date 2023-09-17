@@ -2,7 +2,7 @@
 
 - 📷 Desenvolvedor Mobile/Front-End
 - 👨‍🎓 Graduado em Ciência Da Computação
-- 👨‍💻 Estudando React
+- 👨‍💻 Estudando Front End
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo&show_icons=true&theme=radical)
 
