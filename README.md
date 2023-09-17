@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo Cunha ✌️
+### Olá! Eu sou o Leonardo D. Cunha ✌️
 
 - 📷 Desenvolvedor Mobile/Front-End
 - 👨‍🎓 Graduado em Ciência Da Computação
